@@ -1,4 +1,4 @@
-# A Comparison of Conversational Models and Humans in Answering Technical Questions: the Firefox Case
+# A Comparison of Conversational Models and Humans in Answering Technical Questions: the Firefox Case [(ArXiv)](https://www.arxiv.org/abs/2510.21933) [(ICSE'26)](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/128/A-Comparison-of-Conversational-Models-and-Humans-in-Answering-Technical-Questions-th)
 
 ## Abstract 
 
